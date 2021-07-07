@@ -12,5 +12,3 @@ Authors: Weifeng Chen1, Jingyao Wang1, Qiumei Zhao, Dandan Liu, Donglin Sun, Nin
 > The work sequence of this repository is consistent with the sequence in our manuscript.<br>
 > All scripts are implemented in R (version 4.1.0) under Windows system.<br>
 > Please contact Weifeng Chen (chenweifengaa@163.com) and Jingyao Wang (wangjingyao2002@163.com) for questions and comments.<br>
-> - - - - - - - - - - - - 
-# mitoRiskscore
